@@ -1,0 +1,2 @@
+python binfill.py
+pause  
